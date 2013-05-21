@@ -1,4 +1,4 @@
 omg-not-a-framework
 ===================
 
-As it sounds, a simple printThis snippet
+A collection of PHP snippets that I use and have used over the years that just make life simple for when you are not using a framework that has everything including the kitchen sink.
