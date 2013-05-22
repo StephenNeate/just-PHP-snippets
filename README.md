@@ -1,7 +1,7 @@
-omg-not-a-framework
+just some PHP snippets
 ===================
 
-A collection of PHP snippets that I use and have used over the years that just make life simple for when you are not using a framework that has everything including the kitchen sink.  
+A collection of PHP snippets (functions and classes) that I use and have used over the years that just make life simple for when you are not using a framework that has everything including the kitchen sink.  
 
 Will slowly build to this list over time or if I feel aggravated and need to do something other than the daily grind.
 
