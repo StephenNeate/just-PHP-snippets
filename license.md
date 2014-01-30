@@ -1,7 +1,7 @@
 ###"DAMIYFC - Don't ask me, its your fucking choice"###
-Version 1, 2013 
+Version 1, 2014 
 
-Copyright (C) 2013 Stephen Neate <noosalife@gmail.com> 
+Copyright (C) 2014 Stephen Neate <noosalife@gmail.com> 
 
 Everyone is permitted to copy and distribute verbatim or modified copies of this license document, and changing it is allowed as long as the name is changed. 
 
