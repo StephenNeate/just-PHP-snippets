@@ -13,9 +13,7 @@ If you get sick of adding _pre_ tags and other crap around your output because y
 String value, Array or JSON Array no worries flat or multidimensional, bingo it all comes out on screen.  Need to include the output inside other output, too easy just change the echo value to return.
 
 
-###License - DAMIYFC
-"DAMIYFC - Don't ask me, its your fucking choice" <br/>
-Version 1, 2014 <br/>
+###License - MIT License
 View [license.md](license.md)
 
 
