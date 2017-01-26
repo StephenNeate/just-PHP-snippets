@@ -3,7 +3,7 @@
 /**
  * printThis - basic output of data, great for easily seeing what you inputs are doing or returning
  *
- * @author	Stephen Neate <author@example.com>
+ * @author	Stephen Neate <noosalife@gmail.com>
  * @copyright	2017 Stephen Neate
  * @license	MIT License
  * @version	1.0
