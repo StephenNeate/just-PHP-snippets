@@ -12,7 +12,7 @@
  * @param	$vars['values'] - the value to check the key against
  * @param	$vars['ret'] - return value required, defaults to selected (for selects)
  * @param	$vars['ignore'] - ignore value to overide some matches
- * @return true or selected depending on input
+ * @return	true or selected depending on input
  *
  */
 
