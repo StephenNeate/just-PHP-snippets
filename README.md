@@ -14,7 +14,7 @@ String value, XML, Array or JSON no worries flat or multidimensional, bingo it a
 
 ## output / is_identical ##
 
-Litering code with elseif for trivial matches is annoying, this time saver is for checking identical data sets and for selected options on a dynamic select or just in a general loops. Simple, no nonense and easy to get what you want.
+Littering code with elseif (or ternary operators) for trivial matches is annoying, this time saver is for checking identical data sets and for selected options on a dynamic select or just in a general loops. Simple, no nonense and easy to get what you want.
 
 ###License - MIT License
 View [license.md](license.md)
